@@ -54,6 +54,8 @@ python detect_events.py
 
 ### User Interface
 
+To initiate the user interface, run:
+
 ```bash
 cd User\ Interface
 npm run build
